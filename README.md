@@ -40,3 +40,12 @@ Hello World!
 $ curl http://localhost:15000/testaccess
 Test Access complete.
 ```
+
+## Pattern 3 , execute command
+
+This sample execute `date` command
+
+```
+$ curl http://localhost:15000/datecmd
+Wed May 31 08:26:23 UTC 2017
+```
