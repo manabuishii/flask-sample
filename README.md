@@ -49,3 +49,15 @@ This sample execute `date` command
 $ curl http://localhost:15000/datecmd
 Wed May 31 08:26:23 UTC 2017
 ```
+
+## Pattern 4 , Get parameter
+
+TODO
+
+## Pattern 5 , Create form
+
+TODO
+
+## Pattern 6 , File upload
+
+TODO
