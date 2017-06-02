@@ -62,7 +62,13 @@ Wed May 31 08:26:23 UTC 2017
 
 ## Pattern 4 , Get parameter
 
-TODO
+
+```
+$ curl http://localhost:15000/parametertest\?yourparameter\=MYPARAMETER
+[MYPARAMETER] World!
+```
+
+* [The Request Context — Flask Documentation (0.12)](http://flask.pocoo.org/docs/0.12/reqcontext/)
 
 ## Pattern 5 , Create form
 
