@@ -31,7 +31,7 @@ $ python flasksample.py
 ## docker run
 
 ```
-docker run --rm manabuishii/flask-sample:0.2.0
+docker run --rm manabuishii/flask-sample:0.3.0
 ```
 
 # Test
