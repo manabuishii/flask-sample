@@ -5,6 +5,16 @@ Flask sample
 
 Install Flask (0.12)
 
+## Very small sample
+
+Very small sample at official site
+
+* [Welcome | Flask (A Python Microframework)](http://flask.pocoo.org/)
+
+## Flask 0.12 Document
+
+* [Welcome to Flask — Flask Documentation (0.12)](http://flask.pocoo.org/docs/0.12/)
+
 # Run
 
 ```
