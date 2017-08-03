@@ -77,3 +77,9 @@ TODO
 ## Pattern 6 , File upload
 
 TODO
+
+# Publish to Internet
+
+## Apache httpd reverse proxy
+
+TODO
