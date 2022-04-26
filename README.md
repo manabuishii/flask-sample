@@ -1,9 +1,21 @@
 # flask-sample
 Flask sample
 
-# Install flask
+## Install flask
 
-Install Flask (0.12)
+Install Flask
+
+Tested version is following.
+
+```text
+Flask==2.1.1
+```
+
+### pip Install
+
+```text
+pip install -r requiments.text
+```
 
 ## Very small sample
 
@@ -78,7 +90,42 @@ TODO
 
 TODO
 
-# Publish to Internet
+## Pattern 7 , static file
+
+Static file serving
+
+```console
+$ curl http://localhost:15000/static/staticfile.html
+<html>
+<head>
+<meta charset="utf-8">
+<title>Staticfile sample</title>
+</head>
+<body>
+<h1>Staticfile</h1>
+Sample
+</body>
+</html>
+```
+
+## Pattern 8 , just template
+
+```console
+$ curl http://localhost:15000/templatehelloworld\?yournameparameter\=rainbow
+<html>
+<head>
+<meta charset="utf-8">
+<title>Template sample</title>
+</head>
+<body>
+<h1>Template samle</h1>
+Hello rainbow !<br>
+Welcome template world!<br>
+</body>
+</html>
+```
+
+## Publish to Internet
 
 ## Apache httpd reverse proxy
 
